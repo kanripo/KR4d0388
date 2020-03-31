@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 秋聲集
-#+DATE: 2020-03-31 11:34:52.425158
+#+DATE: 2020-03-31 11:34:52.512764
 #+PROPERTY: ID KR4d0388
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4d0388_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -341,7 +341,7 @@
 <pb:KR4d0388_WYG_004-13a>¶
 度任圓玉敲寒飛觴傳曉未許放春去　閒中趣明月¶
 清風當戸莘莘容屋陳俎剪裁妙語頻賡唱巧勝郢斤¶
-般斧心自許𢬵凋景頽齡為鶯儔燕侣同盟㑹取共花¶
+般斧心自許拚凋景頽齡為鶯儔燕侣同盟㑹取共花¶
 下小車竹間三徑長作老賓主¶
 ¶
 　　前調(叠前韻)¶
